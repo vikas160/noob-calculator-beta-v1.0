@@ -2,8 +2,7 @@ from tkinter import *
 import os
 import pygame
 
-# this adv calculator is made by vikas who is student in gjimt mohali
-# made in india lol jkkk
+#Noob Calculator made by vikas
 
 pygame.mixer.init()
 
